@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Asafaar.github.io/static/css/main.c3061df0.css",
-    "main.js": "/Asafaar.github.io/static/js/main.8f7cab4c.js",
+    "main.js": "/Asafaar.github.io/static/js/main.34bbab7d.js",
     "static/js/415.4d6acbeb.chunk.js": "/Asafaar.github.io/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Asafaar.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/VectorVision.png": "/Asafaar.github.io/static/media/VectorVision.e70281cbee544814dadb.png",
@@ -16,12 +16,12 @@
     "static/media/pre.svg": "/Asafaar.github.io/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Asafaar.github.io/index.html",
     "main.c3061df0.css.map": "/Asafaar.github.io/static/css/main.c3061df0.css.map",
-    "main.8f7cab4c.js.map": "/Asafaar.github.io/static/js/main.8f7cab4c.js.map",
+    "main.34bbab7d.js.map": "/Asafaar.github.io/static/js/main.34bbab7d.js.map",
     "415.4d6acbeb.chunk.js.map": "/Asafaar.github.io/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Asafaar.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3061df0.css",
-    "static/js/main.8f7cab4c.js"
+    "static/js/main.34bbab7d.js"
   ]
 }
